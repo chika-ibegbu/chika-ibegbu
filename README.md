@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning cloud infrastructure and maintainance and be able to Build, maintain and automate VPCs and servers using Terraform
 - 💞️ I’m looking to collaborate on finiancial data, Retail data, Master data etc
 - 📫 you can reach me via my personal email
-- My current Project is building the cloud infrastructre for TEEP, a utility payment Mobile APP and supervising the fullstack development of HamZaa, an Auto Mechanic software (SaaS)
+- My current Project is building the cloud infrastructre for TEEP (utility payment Mobile APP) so stakeholders can have insights on our customers using quicksight and supervising the fullstack development of HamZaa, an Auto Mechanic software (SaaS)
 
 <!---
 chika-ibegbu/chika-ibegbu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
